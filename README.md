@@ -2,7 +2,7 @@
 
 **Flávio Gabriel Carazza-Kessler, Daniela Damion**
 
-Agosto, 2026
+Novembro, 2026
 
 Repositório com o código e banco de dados utilizado para analisar o trabalho na população prisional feminina.
 
@@ -18,18 +18,12 @@ O preprocessamento, análise e plotagem dos dados foram realizados em ambiente R
 
 As bibliotecas utilizadas como dependência dessa análise são: `readr`, `dplyr`, `ggplot2`, `tidyverse`, `stringr`, `ggpubr`, `geobr`, `sf`.
 
+Tabelas oriundas da análise são disponibilizadas em [`results`](results/).
+
 ## Citação
 
-Caso você utilize as análises aqui presentes, por favor cite:
+O artigo encontra-se em processo de submissão. Tão logo seja aceito por algum periódico, sera disponibilizado aqui.
 
-DAMION, Daniela; CARAZZA-KESSLER, Flávio Gabriel. “Mente vazia é oficina do diabo”: uma análise do direito ao trabalho nas prisões femininas brasileiras desde as políticas públicas às estatísticas prisionais. Dilemas: Revista de Estudos de Conflito e Controle Social, v. X, n. X, p. XX–XX, 2026.
+## Licença
 
-```         
-@article{DamionCarazzaKessler2026,
-  author  = {Damion, Daniela and Carazza-Kessler, Flávio Gabriel},
-  title   = {{``Mente vazia é oficina do diabo'': Uma análise do direito ao trabalho nas prisões femininas brasileiras desde as políticas públicas às estatísticas prisionais}},
-  journal = {Dilemas: Revista de Estudos de Conflito e Controle Social},
-  year    = {2026},
-  issn    = {2178-2792}
-}
-```
+Este repositório é disponibilizado sob a licença [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Consulte o arquivo [`LICENSE`](LICENSE) para os termos completos.
